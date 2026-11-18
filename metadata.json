@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix For Hamidabonu",
+  "description": "An interactive celestial particle letter and chamomile bloom for Hamidabonu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
